@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+# we can these items as run time variables.
+
 PERSON1=$1
 PERSON2=$2
 
