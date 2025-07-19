@@ -4,4 +4,5 @@
 
 # 1st line with shell script shebang.
 echo "Hello World!"
-echo "Hi Sai_Kumar_Hello World!"
+echo "Hi Venkaya Swami!"
+echo "Hi Sai_Kumar kid!"
