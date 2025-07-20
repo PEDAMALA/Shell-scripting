@@ -6,7 +6,7 @@ echo "username entered: $USERNAME_1 "
 
 echo "Please enter Second username::" # text entered here will be added as value to variable
 
-read -s USERNAME_2 # Here USERNAME is the variable name
+read -s USERNAME_2 # Here USERNAME is also variable name but -s option is used to hide the input text
 
 echo "username entered: $USERNAME_2 "
 
