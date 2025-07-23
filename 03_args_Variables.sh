@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# we can these items as run time variables.
+# we can provide values to variables while running the script, thus these items($1, $2) as run time variables.
 
 PERSON1=$1
 PERSON2=$2
