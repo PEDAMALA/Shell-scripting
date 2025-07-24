@@ -4,8 +4,8 @@ USERID=$(id -u)
 
 if [ $USERID -ne 0 ]
 then
-    echo "ERROR:: You must have sudo access to execute this script"
-    exit 1 #other than 0
+    echo "ERROR:: You must have sudo access to execute this script" # here :: is used to separate the error message from the command
+    exit 1 # Here in place of 1 we can provide any value other than 0
 fi
 
 dnf list installed mysql
